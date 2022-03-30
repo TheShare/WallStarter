@@ -1,0 +1,7 @@
+X=MsgBox("Welcome to wallpaper starter! Start wallpapers?",1+32,"PWS Wallpaper Starter") 
+X=MsgBox("Alright, it will start. Once finished, it will tell you when its done.",1+32,"PWS Wallpaper Starter") 
+set a=CreateObject("wscript.shell")
+a.run("C:\Windows\System32\cmd.exe /c ""%userprofile%\AppData\Local\Programs\Lively Wallpaper\livelywpf.exe""")
+X=MsgBox("Success!.",1+32,"PWS Wallpaper Starter")
+X=MsgBox("This application is in beta. Request your apps at the Github page.")
+a.run("https://github.com/TheShare/A-program-to-open-your-wallpaper-apps/commit/0f6963a7e9d496fce66895643550d00c32e7450f")
