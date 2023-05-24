@@ -1,9 +1,5 @@
 # Wallstarter
-This can open your wallpaper apps, such as Lively Wallpaper, which it only supports currently. There arent many, so please tell me them!
+-Shortcut to open LivelyWallpaper and this GitHub page
+-Makes it easier to start wallpaper apps.
 
-
-# Features
-opening GitHub page
-Opening LivelyWallpaper
-making it easier on the system to start wallpaper apps
-thats it i guess.
+NOTICE: OFFICALLY UNSUPPORTED AS OF MAY 2023.
